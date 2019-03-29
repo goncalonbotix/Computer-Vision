@@ -1,0 +1,10 @@
+C:\Users\Windows User\source\repos\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\ImageRegistration.csprojAssemblyReference.cache
+C:\Users\Windows User\source\repos\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.Form1.resources
+C:\Users\Windows User\source\repos\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.Properties.Resources.resources
+C:\Users\Windows User\source\repos\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\ImageRegistration.csproj.GenerateResource.cache
+C:\Users\Windows User\source\repos\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\ImageRegistration.csproj.CoreCompileInputs.cache
+C:\Users\Windows User\source\repos\WindowsFormsApp3\WindowsFormsApp3\bin\Debug\WindowsFormsApp3.exe.config
+C:\Users\Windows User\source\repos\WindowsFormsApp3\WindowsFormsApp3\bin\Debug\WindowsFormsApp3.exe
+C:\Users\Windows User\source\repos\WindowsFormsApp3\WindowsFormsApp3\bin\Debug\WindowsFormsApp3.pdb
+C:\Users\Windows User\source\repos\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.exe
+C:\Users\Windows User\source\repos\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.pdb
