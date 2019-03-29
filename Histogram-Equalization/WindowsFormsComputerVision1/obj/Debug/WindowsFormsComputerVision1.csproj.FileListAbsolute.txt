@@ -1,0 +1,11 @@
+C:\Users\Windows User\source\repos\WindowsFormsComputerVision1\WindowsFormsComputerVision1\obj\Debug\WindowsFormsComputerVision1.csprojAssemblyReference.cache
+C:\Users\Windows User\source\repos\WindowsFormsComputerVision1\WindowsFormsComputerVision1\obj\Debug\WindowsFormsComputerVision1.Form1.resources
+C:\Users\Windows User\source\repos\WindowsFormsComputerVision1\WindowsFormsComputerVision1\obj\Debug\WindowsFormsComputerVision1.Properties.Resources.resources
+C:\Users\Windows User\source\repos\WindowsFormsComputerVision1\WindowsFormsComputerVision1\obj\Debug\WindowsFormsComputerVision1.csproj.GenerateResource.cache
+C:\Users\Windows User\source\repos\WindowsFormsComputerVision1\WindowsFormsComputerVision1\obj\Debug\WindowsFormsComputerVision1.csproj.CoreCompileInputs.cache
+C:\Users\Windows User\source\repos\WindowsFormsComputerVision1\WindowsFormsComputerVision1\bin\Debug\WindowsFormsComputerVision1.exe.config
+C:\Users\Windows User\source\repos\WindowsFormsComputerVision1\WindowsFormsComputerVision1\bin\Debug\WindowsFormsComputerVision1.exe
+C:\Users\Windows User\source\repos\WindowsFormsComputerVision1\WindowsFormsComputerVision1\bin\Debug\WindowsFormsComputerVision1.pdb
+C:\Users\Windows User\source\repos\WindowsFormsComputerVision1\WindowsFormsComputerVision1\obj\Debug\WindowsFormsComputerVision1.exe
+C:\Users\Windows User\source\repos\WindowsFormsComputerVision1\WindowsFormsComputerVision1\obj\Debug\WindowsFormsComputerVision1.pdb
+C:\Users\Windows User\source\repos\WindowsFormsComputerVision1\WindowsFormsComputerVision1\obj\Debug\WindowsFormsComputerVision1.Brighten.resources
