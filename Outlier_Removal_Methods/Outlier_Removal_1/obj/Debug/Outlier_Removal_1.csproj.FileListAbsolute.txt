@@ -1,0 +1,10 @@
+C:\Users\Windows User\source\repos\Outlier_Removal_1\Outlier_Removal_1\bin\Debug\Outlier_Removal_1.exe.config
+C:\Users\Windows User\source\repos\Outlier_Removal_1\Outlier_Removal_1\bin\Debug\Outlier_Removal_1.exe
+C:\Users\Windows User\source\repos\Outlier_Removal_1\Outlier_Removal_1\bin\Debug\Outlier_Removal_1.pdb
+C:\Users\Windows User\source\repos\Outlier_Removal_1\Outlier_Removal_1\obj\Debug\Outlier_Removal_1.csprojAssemblyReference.cache
+C:\Users\Windows User\source\repos\Outlier_Removal_1\Outlier_Removal_1\obj\Debug\Outlier_Removal_1.Form1.resources
+C:\Users\Windows User\source\repos\Outlier_Removal_1\Outlier_Removal_1\obj\Debug\Outlier_Removal_1.Properties.Resources.resources
+C:\Users\Windows User\source\repos\Outlier_Removal_1\Outlier_Removal_1\obj\Debug\Outlier_Removal_1.csproj.GenerateResource.cache
+C:\Users\Windows User\source\repos\Outlier_Removal_1\Outlier_Removal_1\obj\Debug\Outlier_Removal_1.csproj.CoreCompileInputs.cache
+C:\Users\Windows User\source\repos\Outlier_Removal_1\Outlier_Removal_1\obj\Debug\Outlier_Removal_1.exe
+C:\Users\Windows User\source\repos\Outlier_Removal_1\Outlier_Removal_1\obj\Debug\Outlier_Removal_1.pdb
